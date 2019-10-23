@@ -1,0 +1,26 @@
+{
+  "name": "app_world_-weather_nodejs",
+  "version": "1.0.0",
+  "description": "Aplicación clima en el mundo con nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "keywords": [
+    "nodejs",
+    "javascrip",
+    "APIs",
+    "llamadas",
+    "HTTP",
+    "Axios"
+  ],
+  "author": "Patricia valdebenito",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^14.2.0"
+  }
+}

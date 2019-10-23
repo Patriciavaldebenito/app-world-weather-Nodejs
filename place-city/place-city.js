@@ -40,6 +40,15 @@ module.exports = {
 
 
 
+
+
+
+
+
+
+
+
+
 /*  FUNCTION FLECHA INICIAL - ANTES DE USAR ASYNC - AWAIT */
 
 
